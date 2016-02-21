@@ -1,0 +1,6 @@
+WordBeakerClient/target/
+WordBeakerClient/.settings/
+*.classpath
+WordBeakerClient/.project
+# TestFiles are zipped up in a TestFiles.zip file which is checked in.
+WordBeakerClient/TestFiles/
