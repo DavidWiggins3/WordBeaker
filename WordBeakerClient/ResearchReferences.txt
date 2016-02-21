@@ -1,0 +1,30 @@
+
+Java Brains Maven Tutorials
+ - https://www.youtube.com/playlist?list=PL92E89440B7BFD0F6
+
+
+DOM Normalization
+ - http://stackoverflow.com/questions/13786607/normalization-in-dom-parsing-with-java-how-does-it-work
+ 
+ 
+JavaFX - GUI building libraries in Java 8
+ - http://docs.oracle.com/javase/8/javase-clienttechnologies.htm
+ 
+ 
+Windows Task Scheduler
+ - http://windows.microsoft.com/en-us/windows/schedule-task#1TC=windows-7
+ 
+ 
+Joda Time
+ - http://www.joda.org/joda-time/quickstart.html
+ 
+ 
+Derive XSD schema from sample XML(scrivener binder)
+ - http://xmlgrid.net/xml2xsd.html
+ 
+ 
+Alternative to using xmlgrid for XSD generation
+ - http://www.displayobject.fr/2010/03/08/generate-xsd-from-xml-with-trang/
+ 
+ 
+ 
